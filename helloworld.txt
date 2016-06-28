@@ -2,3 +2,4 @@ This is a helloworld.txt.
 I add a new line here to this file.
 add a new line again.
 test.
+change this file to test the email ext plugin.
